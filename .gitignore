@@ -8,6 +8,6 @@ Thumbs.db
 *.code-workspace
 
 .secrets
-.sonar-properties
+sonar-project.properties
 
 test_app/codeql-db/
